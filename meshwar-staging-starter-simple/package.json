@@ -1,0 +1,5 @@
+{
+  "name": "meshwar-staging-starter-simple",
+  "private": true,
+  "workspaces": ["apps/*", "packages/*"]
+}
